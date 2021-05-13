@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @haleybice4
+- 👋 Hi, I’m @haleybice4, haley bice
 - 👀 I’m interested in a career in IT or programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: haleylbice@gmail.com
 
 <!---
